@@ -34,14 +34,14 @@ The session chair and other members can extend invitations to experts on specifi
 * Extend invitations to experts on specific topics to enrich our discussions with their specialized knowledge and perspectives.
 Session chairs are encouraged to select topics that are relevant to their research interests but also have broader appeal to ensure a rich and varied discussion. All participants are expected to come to each session having read the key materials and prepared to engage in a thoughtful and constructive dialogue. 
 
-### Time & Venue
+## Time & Venue
 The reading group will meet biweekly on Friday nights. Each session will begin promptly at 7:00 PM and conclude around 9:00 PM. Any adjustment of the date & time will be announced at least two weeks before the session. Detailed schedules can be found on the GitHub page.
 For participants in Hong Kong, we will meet in a designated conference room (location TBD). 
 A Zoom link will be shared on our GitHub page for remote participants. Please do not share the link with outsiders, and do not record the session.
 
-### Communication and Resource Sharing
+## Communication and Resource Sharing
 A GitHub page has been established for the reading group. (https://github.com/sjsj0101/TheReadingGroup) This will be a central hub for posting schedules, distributing reading materials, sharing supplementary resources, and facilitating ongoing discussions between sessions. Participants will also use the repository to upload relevant papers, access information, and engage in discussions outside the scheduled sessions.
 Feedback will be collected regularly from participants to assess the effectiveness of the reading group and to make any necessary adjustments. The group's format and topics may evolve best to meet the needs and interests of its members.
 
-### Logistics
+## Logistics
 The members' list and email addresses will be posted on the GitHub page to facilitate communication. Members are by invitation only. If you have any questions about invitations or logistical matters, please contact Song, Jie at songjie@link.cuhk.edu.hk or Han, Miaozhe at miaozhehan@ust.hk.
