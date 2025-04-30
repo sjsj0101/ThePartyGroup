@@ -1,7 +1,7 @@
-# TheReadingGroup
+
 
 ## Why
-This reading group is designed to create a collaborative and intellectually stimulating environment where both faculty members and PhD students can engage in in-depth discussions on research topics related to the creation, dissemination, and processing of digital information in business and management contexts.
+This group is designed to create a collaborative and intellectually stimulating environment where both faculty members and PhD students can engage in in-depth discussions on research topics related to the creation, dissemination, and processing of digital information in business and management contexts.
 
 ## Format
 Each session has a session chair (professors or senior doctoral students).
